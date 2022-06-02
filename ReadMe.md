@@ -1,5 +1,6 @@
 # Skyblock Hack Bot
-This project is primarily for fun. HYPIXEL DONT SUE ME. If i'm idiotic enough to keep this as my github and you're my employer seeing this you don't.
+This project is primarily for fun. HYPIXEL DONT SUE ME. 
+side note: If you're my employer seeing this and im idiotic enough to keep this github account, you don't.
 
 ## Features
 - Tracks ender pearl bazaar price.
