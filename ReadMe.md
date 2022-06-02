@@ -1,5 +1,5 @@
 # Skyblock Hack Bot
-This project is primarily for fun. HYPIXEL DONT SUE ME. 
+This project is primarily for fun. HYPIXEL DONT SUE ME IM 15. 
 side note: If you're my employer seeing this and im idiotic enough to keep this github account, you don't.
 
 ## Features
