@@ -8,7 +8,7 @@ side note: If you're my employer seeing this and im idiotic enough to keep this 
 - Anti AFK and Anti bot detection
 
 ## Updates
-- Possibley moving part of this to js if it makes the performance better
+- Possibly changing part of this to js if the optimisation is worth it
 - Converting this into a GUI if school leaves me alone
 
 I will make this open source and public when I get bored of Skyblock :)
