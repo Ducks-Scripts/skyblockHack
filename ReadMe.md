@@ -1,6 +1,6 @@
+# Discontinued :( 
 # Skyblock Endermite Macro
-This project is primarily for fun. HYPIXEL DONT SUE ME IM 15. 
-side note: If you're my employer seeing this and im idiotic enough to keep this github account, you don't.
+This project is for educational purposes.
 
 ## Features
 - Tracks ender pearl bazaar price.
@@ -10,7 +10,7 @@ side note: If you're my employer seeing this and im idiotic enough to keep this 
 
 ## Updates
 - Possibly changing part of this to js if the optimisation is worth it
-- Converting this into a GUI if school leaves me alone
+- Converting text commands to GUI
 
 I will make this open source and public when I get bored of Skyblock :)
 
