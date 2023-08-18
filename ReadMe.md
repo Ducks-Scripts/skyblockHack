@@ -1,4 +1,6 @@
 # Discontinued :( 
+Ignore all the bad practises lol
+
 # Skyblock Endermite Macro
 This project is for educational purposes.
 
